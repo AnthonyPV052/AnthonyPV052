@@ -4,7 +4,6 @@
 <p align="center">
   <a href="mailto:anthonypelaez052@gmail.com"><img src="https://img.shields.io/badge/Email-anthonypelaez052@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/anthony-pelaez-valverde/"><img src="https://img.shields.io/badge/LinkedIn-Edner_Anthony_Pelaez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/AnthonyPV052"><img src="https://img.shields.io/badge/GitHub-Anthony Pelaez-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/Location-Madrid,_Spain-FF5733?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
   <img src="https://img.shields.io/badge/Phone-+34_604_84_79_17-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
 </p>
